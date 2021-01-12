@@ -16,3 +16,6 @@
 [submodule "src/GSL"]
 	path = src/GSL
 	url = https://github.com/microsoft/GSL
+[submodule "src/websocketpp"]
+	path = src/websocketpp
+	url = https://github.com/glslang/websocketpp
