@@ -22,3 +22,6 @@
 [submodule "src/tor"]
 	path = src/tor
 	url = https://github.com/torproject/tor.git
+[submodule "src/autobahn-cpp"]
+	path = src/autobahn-cpp
+	url = https://github.com/jgriffiths/autobahn-cpp
