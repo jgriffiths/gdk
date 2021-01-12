@@ -1,0 +1,11 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libgreenaddress
+Description: Blockstream Green Development Kit
+URL: https://github.com/Blockstream/gdk
+Version: 0.8.1
+Cflags: -I${includedir}
+Libs: -L${libdir} -lgreenaddress
