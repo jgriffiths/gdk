@@ -10,3 +10,6 @@
 [submodule "src/msgpack-c"]
 	path = src/msgpack-c
 	url = https://github.com/msgpack/msgpack-c/
+[submodule "src/openssl"]
+	path = src/openssl
+	url = https://github.com/openssl/openssl/
