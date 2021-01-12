@@ -1,3 +1,6 @@
 [submodule "src/zlib"]
 	path = src/zlib
 	url = https://github.com/madler/zlib.git
+[submodule "src/libevent"]
+	path = src/libevent
+	url = https://github.com/libevent/libevent.git
