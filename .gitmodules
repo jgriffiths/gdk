@@ -4,3 +4,6 @@
 [submodule "src/libevent"]
 	path = src/libevent
 	url = https://github.com/libevent/libevent.git
+[submodule "src/libwally-core"]
+	path = src/libwally-core
+	url = https://github.com/ElementsProject/libwally-core
