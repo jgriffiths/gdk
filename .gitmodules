@@ -13,3 +13,6 @@
 [submodule "src/openssl"]
 	path = src/openssl
 	url = https://github.com/openssl/openssl/
+[submodule "src/GSL"]
+	path = src/GSL
+	url = https://github.com/microsoft/GSL
