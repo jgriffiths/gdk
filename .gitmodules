@@ -7,3 +7,6 @@
 [submodule "src/libwally-core"]
 	path = src/libwally-core
 	url = https://github.com/ElementsProject/libwally-core
+[submodule "src/msgpack-c"]
+	path = src/msgpack-c
+	url = https://github.com/msgpack/msgpack-c/
