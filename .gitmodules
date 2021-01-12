@@ -19,3 +19,6 @@
 [submodule "src/websocketpp"]
 	path = src/websocketpp
 	url = https://github.com/glslang/websocketpp
+[submodule "src/tor"]
+	path = src/tor
+	url = https://github.com/torproject/tor.git
